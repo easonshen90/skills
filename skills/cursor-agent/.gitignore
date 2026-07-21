@@ -1,0 +1,4 @@
+# Local wrapper handoffs (also covered by repo-root .gitignore)
+.runtime/
+*.log
+.DS_Store

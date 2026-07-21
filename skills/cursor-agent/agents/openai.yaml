@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cursor Agent"
+  short_description: "Headless Cursor Agent CLI for delegated coding tasks"
+  default_prompt: "Use $cursor-agent to inspect the repository and implement the requested change."

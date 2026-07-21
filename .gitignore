@@ -1,0 +1,65 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# Skill runtime handoffs (wrapper output)
+.runtime/
+**/.runtime/
+
+# Logs and temp
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
+.cache/
+
+# Secrets / env
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+secrets/
+
+# Node / Python (future skill tooling)
+node_modules/
+dist/
+build/
+coverage/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.turbo/
+.next/
+
+# OS / misc
+Thumbs.db
+Desktop.ini
+*.bak
+*.orig
+*.rej

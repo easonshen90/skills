@@ -1,0 +1,13 @@
+Cursor / Anysphere brand notice
+===============================
+
+Cursor, Cursor Agent, and related marks are trademarks or brand assets of
+Anysphere, Inc. (or its affiliates).
+
+This repository is an unofficial community project that wraps the publicly
+documented Cursor Agent headless CLI for Agent Skill orchestration. It is not
+affiliated with, endorsed by, or sponsored by Anysphere / Cursor.
+
+Use of the name "Cursor Agent" here identifies compatibility with the local
+`agent` / `cursor-agent` CLI only. Those marks are not covered by this
+repository's MIT License.
